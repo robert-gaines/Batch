@@ -1,0 +1,1 @@
+C:\Windows\System32\runas.exe /noprofile /user:Administrator cmd
